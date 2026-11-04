@@ -25,7 +25,7 @@ alone, verified against each documented task workflow.
 ## Acceptance criteria
 - FR-01: Given the title &quot;Read Chapter 1&quot;, saving a new task
 causes that title to appear in the task list.
-- FR-02: With two saved tasks, opening the list shows both titles.
+- FR-02: Students must able to check their graded tasks on any device.
 - FR-03: Marking an incomplete task complete changes its displayed
 status to Complete.
 ## Assumptions and open questions
